@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhinav Vashishth aka @aigwotts1
 - 👀 I’m interested in Programming and solving complex coding problems.
-- 🌱 I’m currently pursuing Computer Software Engineering from Chitkara University,HP.
+- 🌱 I completed Bachelors in Computer Software Engineering and had a chance to intern with Epam Systems as Junior Software Engineer.
 - 💞️ I’m looking to become a Software Developer Engineer.
 - 📫 gmail:-sabhinav425@gmail.com
 
