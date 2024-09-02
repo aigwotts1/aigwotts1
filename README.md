@@ -4,7 +4,7 @@
 - 💞️ Working in Software Domain since 2023.
 - ✅ Skillset includes :  
       Backend - JAVA, SpringBoot,PHP & Node.
-      DB - MySql, MongoDB, PostgreSql
+      DB - MySql, MongoDB, PostgreSql,
       Frontend - ReactJs, HTML, CSS, JS, Jquery, BootStrap.
       CMS - Wordpress
       Repository Management - Github, Gitlab
