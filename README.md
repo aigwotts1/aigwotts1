@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhinav Vashishth aka @aigwotts1
 - 👀 Solving bugs from a while aka Programmer.
-- 🌱 I completed Bachelors in Computer Software Engineering with CGPA of 9.87.
+- 🌱 I completed Bachelors in Computer Software Engineering with CGPA of 9.66.
 - 💞️ Working in Software Domain since 2023.
 - ✅ Skillset includes :  
       Backend - JAVA, SpringBoot,PHP & Node.
