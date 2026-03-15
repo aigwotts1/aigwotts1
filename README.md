@@ -1,11 +1,13 @@
 - 👋 Hi, I’m Abhinav Vashishth aka @aigwotts1 and @himachalographer on Social Media. ~ <a href = "https://aigwotts1.github.io/portfolio/">Portfolio</a>
-- 👀 Solving bugs from a while aka Programmer.
-- 🌱 I completed Bachelors in Computer Software Engineering with CGPA of 9.66.
+- 👀 Solving bugs for last few years 🧑‍💻.
+- 🌱 I completed Bachelors in Computer Software Engineering with 9.66 CGPA.
+- 🍵 Pursuing MBA in Data Science and AI.
 - 💞️ Working in Software Domain since 2023.
 - ✅ Skillset includes :  
-      Backend - JAVA, SpringBoot,PHP & Node.
+      Backend - JAVA, SpringBoot, Python, PHP & Node.
       DB - MySql, MongoDB, PostgreSql,
       Frontend - ReactJs, HTML, CSS, JS, Jquery, BootStrap.
+      AI Ecosystem - Python, RAG Pipelines, Vector Databases, LLM Integration, Prompt Engineering,LangChain (basic), AI APIs.
       CMS - Wordpress
       Repository Management - Github, Gitlab
       DevOps - Docker
