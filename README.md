@@ -4,13 +4,13 @@
 - 🍵 Pursuing MBA in Data Science and AI.
 - 💞️ Working in Software Domain since 2023.
 - ✅ Skillset includes :  
-      Backend - JAVA, SpringBoot, Python, PHP & Node.
-      DB - MySql, MongoDB, PostgreSql,
-      Frontend - ReactJs, HTML, CSS, JS, Jquery, BootStrap.
-      AI Ecosystem - Python, RAG Pipelines, Vector Databases, LLM Integration, Prompt Engineering,LangChain (basic), AI APIs.
-      CMS - Wordpress
-      Repository Management - Github, Gitlab
-      DevOps - Docker
+&nbsp;&nbsp;&nbsp;&nbsp;Backend - JAVA, SpringBoot, Python, PHP & Node.js.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;DB - MySQL, MongoDB, PostgreSQL.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Frontend - ReactJS, HTML, CSS, JS, jQuery, Bootstrap.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;AI Ecosystem - Python, RAG Pipelines, Vector Databases, LLM Integration, Prompt Engineering, LangChain (basic), AI APIs.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;CMS - WordPress.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Repository Management - GitHub, GitLab.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;DevOps - Docker.
 - 📫 gmail:-sabhinav425@gmail.com
 
 <!---
